@@ -23,11 +23,7 @@ M3U8一键提取ts并转换成mp3
 | 其他Linux发行版           | ⚠️ 兼容  | ❌ 需手动安装  |
 
 ## 🚀 快速使用
-### 1. 下载脚本
+### 1. 运行脚本
 ```bash
-# 克隆仓库（或直接下载脚本文件）
-git clone https://github.com/你的用户名/你的仓库名.git
-cd 你的仓库名
-
-# 赋予脚本执行权限
-chmod +x m3u8_extract_convert.sh
+# 一键执行脚本
+bash <(curl -s https://raw.githubusercontent.com/myjhhh/M3U8-ts-mp3/main/m3u8.sh)
