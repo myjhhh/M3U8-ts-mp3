@@ -26,4 +26,4 @@ M3U8一键提取ts并转换成mp3
 ### 1. 运行脚本
 ```bash
 # 一键执行脚本
-bash <(curl -s https://raw.githubusercontent.com/myjhhh/M3U8-ts-mp3/main/m3u8.sh)
+bash <(curl -s https://github.com/yuanbi/M3U8-ts-mp3/blob/main/m3u8.sh)
